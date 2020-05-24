@@ -15,5 +15,5 @@ An implementation of the pipeline operator in Lua
   wrapped('Lua is nice') -- LUA IS NICE!
 ```
 
-## Lincense
-MIT
+## License
+[MIT](https://github.com/EvandroLG/pipe.lua/blob/master/LICENSE)
