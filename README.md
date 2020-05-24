@@ -1,6 +1,7 @@
 ## pipe
 An implementation of the `pipeline` operator in Lua
-<br>[![Build Status](https://travis-ci.org/EvandroLG/pipe.lua.svg?branch=master)](https://travis-ci.org/EvandroLG/pipe.lua) [![license](https://badgen.now.sh/badge/license/MIT)](./LICENSE)
+
+[![Build Status](https://travis-ci.org/EvandroLG/pipe.lua.svg?branch=master)](https://travis-ci.org/EvandroLG/pipe.lua) [![license](https://badgen.now.sh/badge/license/MIT)](./LICENSE)
 
 ## Installation
 To install `pipe`, run:
