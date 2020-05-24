@@ -11,6 +11,7 @@ $ luarocks install pipe
 
 ## How does it work?
 `pipe` function pipes the value of an expression into a function that allows the creation of chained function calls.
+
 `pipe` performs left-to-right function composition. See the example below:
 
 ```lua
